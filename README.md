@@ -11,7 +11,7 @@
 ## 🌱 I’m currently learning:
 - Advanced **topology optimization** for structural elements
 - New ways to **apply optimization in 3D frames** through my research project
-- Growing my skills on **GitHub** for better project collaboration and management
+- Growing my skills on **Robotics** and **Structural Analysis** 
 
 ## 💞️ I’m looking to collaborate on:
 - Projects involving **engineering simulation, optimization**, or **machine learning applications** in mechanical systems
