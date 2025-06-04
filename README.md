@@ -18,10 +18,8 @@
 - Open-source initiatives that aim to **improve structural design** or **solve real-world engineering problems**
 
 ## 📫 How to reach me:
-Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/)** or reach out via **email**!
+Feel free to connect with me on **[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sarah-maria-schroeder-96a5b6216/))**!
 
 ## 😄 Pronouns:
 She/Her
 
-## ⚡ Fun fact:
-I’m a huge fan of **Aurora** (the singer 🌌), and I also play the **ukulele** in my spare time. 🎶
